@@ -23,7 +23,7 @@ services:
     # You can define additional environment variables as needed.
     envVars:
       - key: WEBHOOK_URL
-        value:https://n8n-service-wbq4.onrender.com/workflow/CgLUciKJ83Xv6mb4q6mYn?projectId=op3YvSj4T8xQJjjb&uiContext=workflow_list&new=true
+        value:https://n8n-service-wbq4.onrender.com/workflow/
       # Generates a base64-encoded key for
       # encrypting credentials in n8n
       #
